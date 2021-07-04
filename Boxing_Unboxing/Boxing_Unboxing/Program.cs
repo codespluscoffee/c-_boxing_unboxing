@@ -9,12 +9,14 @@ namespace Boxing_Unboxing
             //Boxing
             int i = 123;
             object box = i;
-
+            Console.WriteLine(box.ToString());
 
             //Unboxing
+            object unbox = 123;
+            int z = (int)unbox;
+            Console.WriteLine(z);
 
-            object unbox = 12;
-            int z = (int)box;
         }
     }
 }
+

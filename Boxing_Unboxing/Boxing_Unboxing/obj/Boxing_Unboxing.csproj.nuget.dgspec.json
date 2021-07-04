@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arodriguez/Projects/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj": {}
+    "/Users/arodriguez/Documents/GitHub/c-_boxing_unboxing/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj": {}
   },
   "projects": {
-    "/Users/arodriguez/Projects/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj": {
+    "/Users/arodriguez/Documents/GitHub/c-_boxing_unboxing/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arodriguez/Projects/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj",
+        "projectUniqueName": "/Users/arodriguez/Documents/GitHub/c-_boxing_unboxing/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj",
         "projectName": "Boxing_Unboxing",
-        "projectPath": "/Users/arodriguez/Projects/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj",
+        "projectPath": "/Users/arodriguez/Documents/GitHub/c-_boxing_unboxing/Boxing_Unboxing/Boxing_Unboxing/Boxing_Unboxing.csproj",
         "packagesPath": "/Users/arodriguez/.nuget/packages/",
-        "outputPath": "/Users/arodriguez/Projects/Boxing_Unboxing/Boxing_Unboxing/obj/",
+        "outputPath": "/Users/arodriguez/Documents/GitHub/c-_boxing_unboxing/Boxing_Unboxing/Boxing_Unboxing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arodriguez/.config/NuGet/NuGet.Config"
